@@ -1,0 +1,10 @@
+{
+  "id": "spflo2",
+  "name": "Shopiflow",
+  "type": "plugin",
+  "entry": "src/main.tsx",
+  "configure": "src/configure.tsx",
+  "codegen": "src/codegen.ts",
+  "icon": "/icon.svg",
+  "modes": ["canvas"]
+}
